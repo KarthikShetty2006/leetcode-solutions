@@ -19,4 +19,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/KarthikShetty2006/leetcode-solutions/tree/master/0206-reverse-linked-list) |
+## Math
+|  |
+| ------- |
+| [0009-palindrome-number](https://github.com/KarthikShetty2006/leetcode-solutions/tree/master/0009-palindrome-number) |
 <!---LeetCode Topics End-->
