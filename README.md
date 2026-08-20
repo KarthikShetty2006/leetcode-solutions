@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/KarthikShetty2006/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/KarthikShetty2006/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0160-intersection-of-two-linked-lists](https://github.com/KarthikShetty2006/leetcode-solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0283-move-zeroes](https://github.com/KarthikShetty2006/leetcode-solutions/tree/master/0283-move-zeroes) |
@@ -28,12 +29,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/KarthikShetty2006/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/KarthikShetty2006/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0283-move-zeroes](https://github.com/KarthikShetty2006/leetcode-solutions/tree/master/0283-move-zeroes) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/KarthikShetty2006/leetcode-solutions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/KarthikShetty2006/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/KarthikShetty2006/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 ## Database
 |  |
@@ -41,4 +44,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0175-combine-two-tables](https://github.com/KarthikShetty2006/leetcode-solutions/tree/master/0175-combine-two-tables) |
 | [0584-find-customer-referee](https://github.com/KarthikShetty2006/leetcode-solutions/tree/master/0584-find-customer-referee) |
 | [1757-recyclable-and-low-fat-products](https://github.com/KarthikShetty2006/leetcode-solutions/tree/master/1757-recyclable-and-low-fat-products) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/KarthikShetty2006/leetcode-solutions/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/KarthikShetty2006/leetcode-solutions/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
